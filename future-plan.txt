@@ -2,3 +2,5 @@ future plan
 - belajar
 - intern
 - konsisten
+- startup
+- corp
