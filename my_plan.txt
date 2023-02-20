@@ -2,6 +2,6 @@ live stream plan
 
 - live stream coding
 - live stream game 
-  - ml
+  - ml ( spam cl )
   - valo
   - pubg
